@@ -3,9 +3,9 @@
 
 	<ClickToJumpToProblem>Haz click para ir al problema</ClickToJumpToProblem>
 
-  <BreakRiskMinor>Menor riesgo de colapso mental</BreakRiskMinor>
-  <BreakRiskMajor>Mayor riesgo de colapso mental</BreakRiskMajor>
-  <BreakRiskExtreme>Extremo riesgo de colapso mental</BreakRiskExtreme>
+  <BreakRiskMinor>Riesgo bajo de colapso mental</BreakRiskMinor>
+  <BreakRiskMajor>Riesgo alto de colapso mental</BreakRiskMajor>
+  <BreakRiskExtreme>Riesgo inminente de colapso mental</BreakRiskExtreme>
   <BreakRiskMinorDesc>Estos colonos se encuentran en un estado de ánimo pobre y podrian tener un leve colapso mental en cualquier momento:\n\n{0}</BreakRiskMinorDesc>
   <BreakRiskMajorDesc>Estos colonos se encuentran en un estado de ánimo muy pobre y pueden tener un grave colapso mental en cualquier momento:\n\n{0}</BreakRiskMajorDesc>
   <BreakRiskExtremeDesc>Estos colonos están criticamente estresados y es posible que sufran un severo - y potencialmente violento - colapso mental en cualquier momento:\n\n{0}</BreakRiskExtremeDesc>
@@ -28,29 +28,29 @@
   <NeedWardenDesc>Has capturado a un prisionero, pero ningún colono ejerce como Vigilante.\n\nAsigna el trabajo de Vigilante a algún colono.</NeedWardenDesc>
 
   <LowFood>Escasea la Comida</LowFood>
-  <LowFoodDesc>Está peligrosamente bajo en comida.\n\n    Barras llenas de comida en almacenamiento: {0}\n    Colonos y prisioneros recibiendo comida: {1}\n    Valor en días de comida almacenada: {2}\n\nCultiva, encuentra, mata o compra algo de comida.</LowFoodDesc>
+  <LowFoodDesc>Las reservas de comida están peligrosamente bajas.\n\n    Barras llenas de comida en almacenamiento: {0}\n    Colonos y prisioneros recibiendo comida: {1}\n    Valor en días de comida almacenada: {2}\n\nCultiva, encuentra, mata o compra algo de comida.</LowFoodDesc>
 
   <LowMedicine>Escasean las Medicinas</LowMedicine>
   <LowMedicineDesc>Solo tienes {0} medicamentos restantes almacenados.\n\nCompra más medicamentos de los comerciantes.</LowMedicineDesc>
   <NoMedicineDesc>No tienes ninguna medicina almacenada.\n\nCompra más medicamentos a los comerciantes.</NoMedicineDesc>
   
   <NeedColonistBeds>Necesitas camas para los colonos</NeedColonistBeds>
-  <NeedColonistBedsDesc>Tienes más colonos, que camas disponibles para los colonos. A alguien le faltará un lugar para dormir.\n\nO bien haz más camas, o cambia una cama de prisionero a una cama de colonos.\n\nSi no tienes recursos, los lugares para dormir son gratuitos y se pueden colocarse al instante.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Tienes más colonos que camas disponibles. A alguien le faltará un lugar para dormir.\n\nO bien haz más camas, o cambia una cama de prisionero a una cama de colonos.\n\nSi no tienes recursos, los lugares para dormir son gratuitos y se pueden colocarse al instante.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Cazador sin arma a distancia</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>Un colono esta asignado como cazador pero no tiene arma a distancia\n\nNo cazará hasta que lleve un arma a distancia</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>Un colono esta asignado como cazador pero no tiene un arma a distancia\n\nNo cazará hasta que lleve un arma a distancia</HunterLacksWeaponDesc>
 
   <AlertTatteredApparel>Atuendo andrajoso</AlertTatteredApparel>
   <AlertTatteredApparelDesc>Estos colonos están usando ropa adrajosa, lo que les está haciendo sentirse tristes:\n\n{0}\nConsigueles un poco de ropa que no este tan dañada.\n\nPuedes adaptar tu propia ropa en una mesa de sastrería, o compra a los comerciantes.</AlertTatteredApparelDesc>
 
-	<AlertUnhappyNudity>Desdicha a la desnudez</AlertUnhappyNudity>
-	<AlertUnhappyNudityDesc>Estos colonos están desnudos y no están contentos:\n\n{0}\nConsigueles algo de ropa.\n\nPuedes adaptar tu propia ropa en una mesa de sastrería, o compra a los comerciantes.</AlertUnhappyNudityDesc>
+	<AlertUnhappyNudity>Desnudez involuntaria</AlertUnhappyNudity>
+	<AlertUnhappyNudityDesc>Estos colonos están desnudos y no están contentos:\n\n{0}\nConsígueles algo de ropa.\n\nPuedes adaptar tu propia ropa en una mesa de sastrería, o compra a los comerciantes.</AlertUnhappyNudityDesc>
 
   <Starvation>Hambriento</Starvation>
-  <StarvationDesc>Estos colonos tienen hambre:\n\n{0}\nConsígueles algo de comida.</StarvationDesc>
+  <StarvationDesc>Estos colonos están hambrientos:\n\n{0}\nConsígueles algo de comida.</StarvationDesc>
 
   <StarvationAnimals>Animales hambrientos</StarvationAnimals>
-  <StarvationAnimalsDesc>Estos animales coloniales estan hambrientos:\n\n{0}\nConsígueles algo de comida.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>Estos animales coloniales están hambrientos:\n\n{0}\nConsígueles algo de comida.</StarvationAnimalsDesc>
 
   <Exhaustion>Agotamiento</Exhaustion>
   <ExhaustionDesc>Estos colonos están agotados y necesitan reposo:\n\n{0}\nConsígueles algo de descanso. Necesitarán una cama designada para que la use el colono. Además, asegúrate de que no están de servicio.</ExhaustionDesc>
